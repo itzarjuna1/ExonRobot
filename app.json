@@ -42,6 +42,11 @@
          "required": true,
          "value": "931051ff310e587ac41154ed3d516f06"
       },
+      "DATABASE_URL": {
+         "description": "get this value from postgre sql.",
+         "required": true, 
+         "value": "",
+      },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
          "required": true,
