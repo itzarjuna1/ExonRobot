@@ -21,7 +21,7 @@ psycopg2-binary==2.9.10
 pyYAML==6.0.2
 pyrate-limiter==2.8.5
 python-telegram-bot==13.15
-requests==2.32.4
+requests>=2.32.0
 spamwatch==0.3.0
 speedtest-cli==2.1.3
 SQLAlchemy==1.4.44
@@ -53,5 +53,4 @@ search_engine_parser
 googletrans==2.4.0
 gpytranslate==1.5.1
 cloudscraper==1.2.70
-carbonnow
 pretty_errors
