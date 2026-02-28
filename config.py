@@ -14,7 +14,7 @@ class Config(object):
     ARQ_API_KEY = "PMPTTD-HOMLMF-SRBHNH-RZMWXL-ARQ"
     SPAMWATCH_API = None
     TOKEN = os.getenv("TOKEN", None)
-    OWNER_ID = int(os.getenv("OWNER_ID", 7651303468)
+    OWNER_ID = int(os.getenv("OWNER_ID", 7651303468))
     OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyber_github")
     SUPPORT_CHAT = os.getenv("SUPPORT_CHAT", "snowy_hometown")
     LOGGER_ID = int(os.getenv("LOGGER_ID", "-1003748760283"))
