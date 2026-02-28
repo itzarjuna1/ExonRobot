@@ -45,7 +45,7 @@
       "DATABASE_URL": {
          "description": "get this value from postgre sql.",
          "required": true, 
-         "value": "",
+         "value": ""
       },
       "OWNER_ID": {
          "description": "ʏᴏᴜʀ ᴜsᴇʀ ID ᴀs ᴀɴ ɪɴᴛᴇɢᴇʀ.",
